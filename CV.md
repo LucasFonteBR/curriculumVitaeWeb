@@ -1,6 +1,6 @@
 # Currículo 2022
 
-Currículo de exemplo para a turma de banco de dados da faculdade 
+Currículo de exemplo para a turma de desenvolvimento web da faculdade 
 
 ## **DADOS PESSOAIS**
 
@@ -46,7 +46,7 @@ Todas as hard skills
 - Conhecimento em Nodejs (Javascript, Typescript)
 - Conhecimento em React e react native
 - Conhecimento sobre RESTFUL API
-- Conhecimento sobre Documentação de API's e seus derivados
+- Conhecimento sobre Documentação de API's e os seus derivados
 - Conhecimento sobre testes usando Postman
 - Conhecimento sobre metodologias ágeis (SCRUM, KANBAN)
 
