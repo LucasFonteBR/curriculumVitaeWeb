@@ -13,8 +13,8 @@ Todos os dados pessoais
 - lucasfonte@hotmail.com.br
 
 ### Telefones
-- (19) 98972-6418
-- (19) 3716-7792
+- (19) 91234-5678
+- (19) 3124-7568
 
 ### Redes Sociais 
 - github: **https://github.com/LucasFonteBR**
