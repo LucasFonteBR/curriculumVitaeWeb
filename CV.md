@@ -68,4 +68,3 @@ Todos os Idiomas
 
 - Português fluente
 - Inglês intermediário
-- Espanhol básico
